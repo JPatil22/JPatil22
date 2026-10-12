@@ -3,7 +3,7 @@
   Content sourced from portfolio: https://www.jaypatil.online
 -->
 
-<h1 align="center">Jay Patil</h1>
+<img src="./banner.svg" width="100%" alt="Jay Patil — Full-Stack Developer & AI Systems Engineer" />
 
 <div align="center">
 
@@ -63,8 +63,8 @@ I'm a full-stack developer who builds **web apps, SaaS platforms, and AI-driven 
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| **PatchMySEO / SEO Nexus** | AI platform that audits domains and generates SEO reports | JavaScript · Node.js · Supabase · OpenAI |
-| **Pingmebot** | Embeddable AI chatbot that answers from uploaded docs & links | FastAPI · Vector Search · OpenAI · React |
+| **[PatchMySEO](https://patchmyseo.com)** | AI platform that audits domains and generates SEO reports | JavaScript · Node.js · Supabase · OpenAI |
+| **[Pingmebot](https://pingmebot.live)** | Embeddable AI chatbot that answers from uploaded docs & links | FastAPI · Vector Search · OpenAI · React |
 | **[Kirayah](https://kirayah.xyz)** | Rental marketplace with real-time search filters | Next.js · TypeScript · Tailwind · PostgreSQL |
 | **Country-Safe Travel Planner** | Country safety scores + day-by-day itinerary generator | Vanilla JS · OpenAI API |
 | **Realtime Voice AI** | Low-latency voice agents for medical triage & lead qualification | LiveKit · OpenAI Realtime · Python · Twilio |
