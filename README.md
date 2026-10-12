@@ -3,7 +3,7 @@
   Content sourced from portfolio: https://www.jaypatil.online
 -->
 
-<img src="https://raw.githubusercontent.com/JPatil22/JPatil22/main/banner.svg" width="100%" alt="Jay Patil — Full-Stack Developer & AI Systems Engineer" />
+<img src="https://raw.githubusercontent.com/JPatil22/JPatil22/main/banner.svg" width="100%" alt="Jay Patil - Full-Stack Developer and AI Systems Engineer" />
 
 <div align="center">
 
@@ -71,6 +71,14 @@ I'm a full-stack developer who builds **web apps, SaaS platforms, and AI-driven 
 | **BigPDF Suite** | Browser-based PDF editor, redactor & OCR — files stay local | React 19 · Tesseract · PDF.js · PDF-Lib |
 
 > 🔗 See these live with case studies on my portfolio → **[jaypatil.online](https://www.jaypatil.online)**
+
+## 🔥 Contributions
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JPatil22&theme=radical&hide_border=true&fire=36BCF7&currStreakLabel=36BCF7&ring=36BCF7&sideNums=36BCF7" alt="GitHub streak stats" />
+
+</div>
 
 ## 🔗 Connect With Me
 
