@@ -3,14 +3,13 @@
   Content sourced from portfolio: https://www.jaypatil.online
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Jay%20Patil&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20AI%20Systems%20Engineer&descSize=18&descAlignY=58" width="100%" />
+<h1 align="center">Jay Patil</h1>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+AI+Engineer;I+build+web+apps%2C+SaaS+%26+AI+automation;React+%2B+Next.js+%2B+Python+%2B+OpenAI;Clean+architecture.+Fast+delivery.)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jaypatil.online-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.jaypatil.online)
-<img src="https://komarev.com/ghpvc/?username=JPatil22&style=for-the-badge&color=36BCF7&label=Profile+Views" alt="views" />
 
 </div>
 
@@ -85,5 +84,3 @@ I'm a full-stack developer who builds **web apps, SaaS platforms, and AI-driven 
 </a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" />
