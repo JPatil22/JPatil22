@@ -65,6 +65,22 @@ class Jay:
 
 </div>
 
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=JPatil22&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)
+
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JPatil22&theme=react-dark&hide_border=true&area=true&color=36BCF7&line=36BCF7&point=ffffff)
+
+</div>
+
 ## 🔗 Connect With Me
 
 <div align="center">
