@@ -1,14 +1,16 @@
 <!--
   GitHub profile README for  JPatil22/JPatil22  (save as README.md)
+  Content sourced from portfolio: https://www.jaypatil.online
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Jay%20Patil&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%7C%20DevOps%20%7C%20Open%20Source&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Jay%20Patil&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20AI%20Systems%20Engineer&descSize=18&descAlignY=58" width="100%" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Intern+%40+ANS+Services;Ambassador+%40+Codum;Cloud+%26+DevOps+enthusiast;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+AI+Engineer;I+build+web+apps%2C+SaaS+%26+AI+automation;React+%2B+Next.js+%2B+Python+%2B+OpenAI;Clean+architecture.+Fast+delivery.)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=JPatil22&style=flat-square&color=36BCF7&label=Profile+Views" alt="views" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-jaypatil.online-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.jaypatil.online)
+<img src="https://komarev.com/ghpvc/?username=JPatil22&style=for-the-badge&color=36BCF7&label=Profile+Views" alt="views" />
 
 </div>
 
@@ -16,83 +18,70 @@
 
 ## ⚡ About Me
 
-```python
-class Jay:
-    def __init__(self):
-        self.role      = ["Intern @ ANS Services", "Ambassador @ Codum"]
-        self.focus     = ["Cloud", "DevOps", "Open Source"]
-        self.learning  = "Kubernetes & CI/CD pipelines"
-        self.motto     = "Great developers never stop learning."
+I'm a full-stack developer who builds **web apps, SaaS platforms, and AI-driven automation tools** — working across frontend and backend to wire modern interfaces up to AI APIs.
 
-    def say_hi(self):
-        print("Thanks for visiting — let's build something!")
-```
+- 🧠 I treat every project as a **product**: clean architecture, fast delivery
+- 🎙️ Deep into **real-time voice AI**, RAG/vector search, and browser-based tooling
+- 🌍 Work **remotely across time zones** with clients on Upwork & Fiverr
+- 💬 Ask me about React, Next.js, FastAPI, or building with the OpenAI Realtime API
+- 📫 Reach me at **jaypatil@patchmyseo.com**
 
 ## 🧰 Tech Stack
 
-<div align="center">
+**Frontend**
 
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-<br/>
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**AI & Voice**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit_WebRTC-1E1E1E?style=for-the-badge&logo=webrtc&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio_SIP-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract_OCR-5C3EE8?style=for-the-badge&logo=tesseract&logoColor=white)
+
+**Cloud & Tools**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-<br/>
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
+## 🚀 Featured Projects
 
-## 📊 GitHub Stats
+| Project | What it does | Built with |
+| --- | --- | --- |
+| **PatchMySEO / SEO Nexus** | AI platform that audits domains and generates SEO reports | JavaScript · Node.js · Supabase · OpenAI |
+| **Pingmebot** | Embeddable AI chatbot that answers from uploaded docs & links | FastAPI · Vector Search · OpenAI · React |
+| **[Kirayah](https://kirayah.xyz)** | Rental marketplace with real-time search filters | Next.js · TypeScript · Tailwind · PostgreSQL |
+| **Country-Safe Travel Planner** | Country safety scores + day-by-day itinerary generator | Vanilla JS · OpenAI API |
+| **Realtime Voice AI** | Low-latency voice agents for medical triage & lead qualification | LiveKit · OpenAI Realtime · Python · Twilio |
+| **BigPDF Suite** | Browser-based PDF editor, redactor & OCR — files stay local | React 19 · Tesseract · PDF.js · PDF-Lib |
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JPatil22&show_icons=true&count_private=true&hide_border=true&theme=radical&title_color=36BCF7&icon_color=36BCF7" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=JPatil22&layout=compact&hide_border=true&theme=radical&title_color=36BCF7" />
-
-<br/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JPatil22&theme=radical&hide_border=true&fire=36BCF7&currStreakLabel=36BCF7" />
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=JPatil22&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JPatil22&theme=react-dark&hide_border=true&area=true&color=36BCF7&line=36BCF7&point=ffffff)
-
-</div>
+> 🔗 See these live with case studies on my portfolio → **[jaypatil.online](https://www.jaypatil.online)**
 
 ## 🔗 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jay-patil-39163124b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.jaypatil.online" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="mailto:jayjpatil00@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://github.com/JPatil22" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="mailto:jaypatil@patchmyseo.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
