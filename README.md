@@ -3,7 +3,7 @@
   Content sourced from portfolio: https://www.jaypatil.online
 -->
 
-<img src="./banner.svg" width="100%" alt="Jay Patil — Full-Stack Developer & AI Systems Engineer" />
+<img src="https://raw.githubusercontent.com/JPatil22/JPatil22/main/banner.svg" width="100%" alt="Jay Patil — Full-Stack Developer & AI Systems Engineer" />
 
 <div align="center">
 
